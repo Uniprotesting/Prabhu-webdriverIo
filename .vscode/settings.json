@@ -1,0 +1,12 @@
+{
+    "cucumberautocomplete.formatConfOverride": {
+    
+    }
+,
+    "cucumberautocomplete.steps": ["./tests/features/step_definitions/*.js"],
+    "cucumberautocomplete.syncfeatures": "./tests/features/featureFiles/sampleWebdriverioSearch.feature",
+    "cucumberautocomplete.strictGherkinCompletion": false,
+    "cucumberautocomplete.customParameters": [
+    
+    ],
+}

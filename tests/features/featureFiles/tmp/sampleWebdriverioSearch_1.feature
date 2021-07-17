@@ -4,4 +4,3 @@ Scenario: As a user, I should get relevant Search Results on searching for valid
 Given I am on the webdriverIO homepage
 When I search for the Get Started keyword
 Then I should get redirected to the Get Started Page
-Then I should get redirected
